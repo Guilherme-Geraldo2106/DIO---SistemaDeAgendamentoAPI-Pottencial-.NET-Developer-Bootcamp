@@ -28,7 +28,7 @@ namespace TrilhaApiDesafio.Controllers
             }
             else
             {
-                return Ok(id);
+                return Ok(tarefaBanco);
             }
 
         }
